@@ -1,0 +1,10 @@
+package com.techouts.training;
+
+public class Even_odd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

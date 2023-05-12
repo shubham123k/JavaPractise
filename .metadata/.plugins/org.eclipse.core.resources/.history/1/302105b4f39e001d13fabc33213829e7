@@ -1,0 +1,12 @@
+package com.techouts.training;
+
+public class Class_1 {
+     int id=567 ;
+     String s="Shubham";
+  public static void main(String[] args) {
+	Class_1 obj=new Class_1();
+	System.out.println(obj.id );
+	System.out.println(obj.s);
+}  
+}
+ 

@@ -1,0 +1,19 @@
+package com.techouts.training;
+
+public class Method3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       int a=10,b=11;
+       int c=add(a,b);
+       System.out.println("The sum of two number" + c);
+       }
+
+	private static int add(int a, int b) {
+		// TODO Auto-generated method stub
+		int s=a+b;
+		System.out.println("");
+		return s;
+	}
+
+}

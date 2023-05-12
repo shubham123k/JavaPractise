@@ -1,0 +1,19 @@
+package com.practisejavaprograms;
+
+public class Testaray1 {
+
+	
+	public static void main(String[] args) {
+		
+	   int arry[]= {33,34,35,36};
+	   for(int i = 0;i<arry.length-1;i++) {
+		   System.out.println(arry[i]);
+	   }
+	   /*
+	 //printing array using for-each loop
+       for (int i:arry) {
+    	   System.out.println(i);
+       } */
+	}
+
+}

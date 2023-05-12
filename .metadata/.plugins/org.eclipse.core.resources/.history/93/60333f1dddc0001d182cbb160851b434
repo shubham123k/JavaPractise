@@ -1,0 +1,24 @@
+package com.practisejavaprograms;
+
+public class C extends B{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		A obj=new C();
+
+	}
+
+	@Override
+	public void b() {
+		System.out.println("");
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void c() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

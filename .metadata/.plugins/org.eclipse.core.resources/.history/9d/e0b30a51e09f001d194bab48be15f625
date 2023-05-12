@@ -1,0 +1,22 @@
+package com.techouts.training;
+
+import java.util.Scanner;
+
+public class Even_odd {
+	public static void findEvenodd(int num){
+		 if(num%2==0) {
+			 System.out.println(num + " ");
+		 }
+		 else {
+			 System.out.println(num + " ");
+		 }
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      Scanner scan=new Scanner(System.in);
+      System.out.println("Enter the number");
+      int num=scan.nextInt();
+      findEvenodd(num);
+	}
+
+}

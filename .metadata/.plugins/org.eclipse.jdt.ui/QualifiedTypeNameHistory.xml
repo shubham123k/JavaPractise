@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+    <fullyQualifiedTypeName name="com.techouts.training.If_Else_IF"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.locks.AbstractQueuedLongSynchronizer.ConditionObject"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Then"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.And"/>
+    <fullyQualifiedTypeName name="com.practisejavaprograms.Method1"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.Main"/>
+    <fullyQualifiedTypeName name="com.practisejavaprograms.SBI"/>
+</qualifiedTypeNameHistroy>

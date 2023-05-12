@@ -1,0 +1,15 @@
+package com.techouts.training;
+
+public class Static_method {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+      show();
+	}
+
+	 static void show() {
+		// TODO Auto-generated method stub
+		System.out.println("The King of the Maharashtra : Chtrapatti Shivaji Maharaj");
+	}
+
+}

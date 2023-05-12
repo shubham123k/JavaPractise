@@ -1,0 +1,17 @@
+package com.techouts.training;
+
+public class Class_2 {
+	int num2=99,num3=100;
+	String x="Kale";
+	void method1(int num1,String s){
+		num1=99;
+		s="Shubham";
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

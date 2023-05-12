@@ -1,0 +1,15 @@
+package com.techouts.training;
+
+public class Class_2 {
+	public void method1(int num1,String s){
+		System.out.println("I am learning");
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    Class_2 object=new Class_2();
+    object.method1(100, "SHubham");
+	}
+
+}

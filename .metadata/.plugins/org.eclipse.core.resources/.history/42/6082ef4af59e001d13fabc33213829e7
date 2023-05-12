@@ -1,0 +1,12 @@
+package com.techouts.training;
+
+public class Class_1 {
+     int id1=1654,id2=1934;
+     String s1="Shubham",s2="Kale";   //Initialization through reference variable 
+    public static void main(String[] args) {
+	Class_1 obj=new Class_1();
+	System.out.println(obj.s1+" "+obj.id1);
+	System.out.println(obj.s2+" "+obj.id2);
+	}  
+}
+ 
